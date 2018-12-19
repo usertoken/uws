@@ -1,0 +1,15 @@
+{
+	"name": "uws",
+	"version": "0.0.1",
+	"description": "Tiny WebSockets",
+	"main": "uws.js",
+	"author": "multiple",
+	"license": "MIT",
+	"scripts": {
+		"install": "node-gyp rebuild"
+	},
+	"keywords": [
+		"tiny",
+		"websockets"
+	]
+}
